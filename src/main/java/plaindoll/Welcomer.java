@@ -10,7 +10,7 @@ public class Welcomer{
 	public String sayStatus() {
 		return "Good status";
 	}
-	public String sayHunter(){
+	public String sayHunter() {
 	    return "Hello, hunter";
 	}
 }
